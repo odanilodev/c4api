@@ -24,6 +24,7 @@ class App extends BaseConfig
 	 * @var string
 	 */
 	public $baseURL = 'https://cimenu.com.br/api/';
+	public $allowedHostnames = [];
 
 	/**
 	 * --------------------------------------------------------------------------
